@@ -4,6 +4,7 @@ Branch1: [![Build Status](https://releasemanagementpm.visualstudio.com/_apis/pub
 Branch2: [![Build Status](https://releasemanagementpm.visualstudio.com/_apis/public/build/definitions/f3325c6c-ad87-4258-b45d-2596ce78c42b/90/badge)](https://bing.com)
 <br />
 Branch3: [![Build Status](https://releasemanagementpm.visualstudio.com/_apis/public/build/definitions/f3325c6c-ad87-4258-b45d-2596ce78c42b/90/badge)](https://bing.com)
+<br />
 Branch4: [![Build Status](https://releasemanagementpm.visualstudio.com/_apis/public/build/definitions/f3325c6c-ad87-4258-b45d-2596ce78c42b/90/badge)](https://bing.com)
 
 This is a demo ReadMe. This has a status badge for vsts build and release.
