@@ -1,7 +1,7 @@
 
 Branch1: [![Build Status](https://releasemanagementpm.visualstudio.com/_apis/public/build/definitions/f3325c6c-ad87-4258-b45d-2596ce78c42b/90/badge)](https://releasemanagementpm.visualstudio.com/ArtifactDemo/_build/index?definitionId=90&_a=completed)
 <br />
-Branch2: [![Build Status](https://releasemanagementpm.visualstudio.com/_apis/public/build/definitions/f3325c6c-ad87-4258-b45d-2596ce78c42b/90/badge)](https://bing.com)
+Branch2: [![Build Status](https://releasemanagementpm.visualstudio.com/_apis/public/build/definitions/f3325c6c-ad87-4258-b45d-2596ce78c42b/156/badge)](https://bing.com)
 <br />
 Branch3: [![Build Status](https://releasemanagementpm.visualstudio.com/_apis/public/build/definitions/f3325c6c-ad87-4258-b45d-2596ce78c42b/90/badge)](https://bing.com)
 <br />
