@@ -10,9 +10,7 @@ Branch4: [![Build Status](https://releasemanagementpm.visualstudio.com/_apis/pub
 Artifactdemo2: [![Build Status](https://releasemanagementpm.visualstudio.com/_apis/public/build/definitions/49d25159-4185-4099-beb7-9436cfb74b87/152/badge)](https://bing.com)
 <br />
 <br />
-<br />
-<br />
-<br />
+ 
 
 
 
