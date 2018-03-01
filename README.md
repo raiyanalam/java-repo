@@ -1,8 +1,8 @@
 
 
-Kusto Env: [![asjdfljasdf](https://rmbugbash.rmintrm1.tfsallin.net/_apis/public/Release/badge/6b4616a6-4e8b-443a-9bc0-ea477094f819/556/919)](https://rmbugbash.rmintrm1.tfsallin.net/_apis/public/Release/badge/6b4616a6-4e8b-443a-9bc0-ea477094f819/556/919)
-<br />
-Env 2: [![asjdfljasdf](https://rmbugbash.rmintrm1.tfsallin.net/_apis/public/Release/badge/6b4616a6-4e8b-443a-9bc0-ea477094f819/556/919)](https://rmbugbash.rmintrm1.tfsallin.net/_apis/public/Release/badge/6b4616a6-4e8b-443a-9bc0-ea477094f819/556/919)
+| **`Kustoenv`** | **`Second`** | 
+|-----------------|---------------------|
+| [![Build Status](https://ci.tensorflow.org/buildStatus/icon?job=tensorflow-master-cpu)](https://releasemanagementpm.visualstudio.com/_apis/public/build/definitions/f3325c6c-ad87-4258-b45d-2596ce78c42b/90/badge?branchName=masteasdfasfd&api-version=4.1-preview)](https://bing.com) | [![Build Status](https://ci.tensorflow.org/buildStatus/icon?job=tensorflow-master-linux-gpu)](https://releasemanagementpm.visualstudio.com/ArtifactDemo/_build/index?definitionId=90&_a=completed) |
 
 <br />
 <br />
