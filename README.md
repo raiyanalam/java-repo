@@ -2,7 +2,7 @@
 
 | **`Kustoenv`** | **`Second`** | 
 |-----------------|---------------------|
-| [![Build Status](https://releasemanagementpm.visualstudio.com/ArtifactDemo/_build/index?definitionId=90&_a=completed)](https://releasemanagementpm.visualstudio.com/ArtifactDemo/_build/index?definitionId=90&_a=completed)] | [![Build Status](https://releasemanagementpm.visualstudio.com/_apis/public/build/definitions/f3325c6c-ad87-4258-b45d-2596ce78c42b/90/badge?branchName=masteasdfasfd&api-version=4.1-preview)](https://releasemanagementpm.visualstudio.com/_apis/public/build/definitions/f3325c6c-ad87-4258-b45d-2596ce78c42b/90/badge?branchName=masteasdfasfd&api-version=4.1-preview) |
+| [![asjdfljasdf](https://releasemanagementpm.visualstudio.com/_apis/public/build/definitions/f3325c6c-ad87-4258-b45d-2596ce78c42b/162/badge)](https://releasemanagementpm.visualstudio.com/ArtifactDemo/_build/index?definitionId=90&_a=completed) | [![Build Status](https://releasemanagementpm.visualstudio.com/_apis/public/build/definitions/f3325c6c-ad87-4258-b45d-2596ce78c42b/9022222/badge)](https://bing.com) |
 
 <br />
 <br />
