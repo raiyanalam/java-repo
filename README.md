@@ -17,27 +17,6 @@
 <br />
 <br />
 
-https://mseng.vsrm.visualstudio.com/_apis/public/Release/badge/b924d696-3eae-4116-8443-9a18392d8544/1934/5529
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Branch1: [![asjdfljasdf](https://releasemanagementpm.visualstudio.com/_apis/public/build/definitions/f3325c6c-ad87-4258-b45d-2596ce78c42b/162/badge)](https://releasemanagementpm.visualstudio.com/ArtifactDemo/_build/index?definitionId=90&_a=completed)
 <br />
