@@ -2,7 +2,7 @@
 
 | **`Kustoenv`** | **`Second`** | 
 |-----------------|---------------------|
-| [![Build Status](https://mseng.vsrm.visualstudio.com/_apis/public/Release/badge/b924d696-3eae-4116-8443-9a18392d8544/1356/4290)](https://bing.com)  | [![Build Status](https://mseng.vsrm.visualstudio.com/_apis/public/Release/badge/b924d696-3eae-4116-8443-9a18392d8544/1356/4290)](https://bing.com) |
+| [![Build Status](https://mseng.vsrm.visualstudio.com/_apis/public/Release/badge/b924d696-3eae-4116-8443-9a18392d8544/1934/5529)](https://bing.com)  | [![Build Status](https://mseng.vsrm.visualstudio.com/_apis/public/Release/badge/b924d696-3eae-4116-8443-9a18392d8544/1356/4290)](https://bing.com) |
 
 <br />
 <br />
